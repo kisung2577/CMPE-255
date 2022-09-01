@@ -1,7 +1,7 @@
 
 # Assignment 1.2: Derek Banas Python Tutorial in Google Colab
 
-This assignment is written on visual studio code using github copilot.
+This assignment is written on Google Colab.
 
 1. Basic
 
